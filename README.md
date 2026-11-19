@@ -1,1 +1,1 @@
-# neotropical_ecological_strategies
+# Neotropical ecological strategies
